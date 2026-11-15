@@ -87,6 +87,6 @@ nenhum 500).
 
 ## Integrantes
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Jakson Da Silva
+- Hendrio Eugênio da Silva
+- Nicollas Sena
